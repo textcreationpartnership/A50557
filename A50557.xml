@@ -1,0 +1,654 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Melancholy comlaint of D. Otes of the black ingratitude of this present age towards him and the evil rewards he has receiv'd for his numberless services done for the nations</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50557</idno>
+            <idno type="STC">Wing M1634</idno>
+            <idno type="STC">ESTC R15052</idno>
+            <idno type="EEBO-CITATION">13344138</idno>
+            <idno type="OCLC">ocm 13344138</idno>
+            <idno type="VID">99155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99155)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 467:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Melancholy comlaint of D. Otes of the black ingratitude of this present age towards him and the evil rewards he has receiv'd for his numberless services done for the nations</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99155:1"/>
+            <pb facs="tcp:99155:1" rendition="simple:additions"/>
+            <p>THE Melancholy Complaint OF D. OTES, OF <hi>The Black Ingratitude of this preſent Age</hi> TOWARDS HIM, And the Evil Rewards he has Receiv'd for his NUMBERLESS SERVICES Done for the NATION.</p>
+            <q>
+               <l>Dii (ſiqua eſt Coelo pietas quae talia curet)</l>
+               <l>Perſolvant grates dignas; &amp; praemia reddant</l>
+               <l>Debita—</l>
+               <bibl>
+                  <hi>Virg. Aen. 2.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Charles Brome,</hi> at the Gun in St. <hi>Paul</hi>'s Church-Yard. MDCLXXXIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99155:2"/>
+            <pb n="1" facs="tcp:99155:2"/>
+            <head>THE Melancholy Complaint OF D. OTES.</head>
+            <l>WHat could a curſt ungrateful Age do more</l>
+            <l>Impoſture like, to punniſh him ſo ſore</l>
+            <l>Whom for a Saviour, they ador'd before.</l>
+            <l>I was the man, O! cruell change of Fate:</l>
+            <l>Once, thought the Pillar of the ſinking State,</l>
+            <l>Am now become the very Jayl-birds hate,</l>
+            <l>Out of a Pallace, into a Dungeon thruſt,</l>
+            <l>From Six good Diſhes, to ſnap at a cruſt,</l>
+            <l>By God and man like <hi>Cain,</hi> mark't out and curſt.</l>
+            <l>Is this the end of all my promis'd Joys,</l>
+            <l>I that once made ſuch Buſle, and ſuch Noiſe,</l>
+            <l>Puft up with Triumphs of the ſhouting Boys.</l>
+            <l>With what applauſe was I receiv'd by th' Rabble</l>
+            <l>When I gave hopes for to rebuild their Babel;</l>
+            <l>But now they'll hang me, 'cauſe I was not able.</l>
+            <l>With watring Chopps, I call to mind the cheer,</l>
+            <l>That oft I made with many a Noble Peer,</l>
+            <l>Now in good time may ſnack the basket here.</l>
+            <l>I do remember too how tumbling pence</l>
+            <l>Came rowling in when <hi>I</hi> did firſt commence</l>
+            <l>Maſter of th' Art, and Doctor Evidence,</l>
+            <l>For want of which <hi>I</hi> never ſhall get hence.</l>
+            <l>'Tis ſtrange that Bolts, and Bars, and Iron Grates,</l>
+            <l>The Juſt reward of perjur'd Rogues, and Cheats,</l>
+            <l>Should prove the <hi>Praemium</hi> of my glorious Feats,</l>
+            <l>Ungrateful Slaves! What! have ye quite forgot</l>
+            <l>How for your ſakes ſtrange Kingdoms I did trot</l>
+            <l>Brought nothing home but th' wonder of my Plot;</l>
+            <l>Though many ſhifts <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I have been put too,</l>
+            <l>Scarce able to provide <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> back and gut too,</l>
+            <l>And often times was forc'd to pad a-foot too</l>
+            <l>Nay, many times I've lain all day in Bed,</l>
+            <l>Becauſe abroad <hi>I</hi> durſt not ſhew my head</l>
+            <l>But when't grew dark, ſtole out to beg my bread.</l>
+            <l>What <hi>I</hi> have ſuffer'd for the Kingdom's ſake,</l>
+            <l>In want's and dangers what <hi>I</hi> did pertake,</l>
+            <l>And now to fear the Gibbet or the Stake,</l>
+            <l>Brethren, 'twill cauſe your tender hearts to ake.</l>
+            <l>I curſt my Country, and deny'd, my <hi>Credo,</hi>
+            </l>
+            <l>And for the Nations good, turn'd Runegado,</l>
+            <l>Received Cruell <hi>Whitebread</hi>'s Baſtinado,</l>
+            <pb n="2" facs="tcp:99155:3"/>
+            <l>I worſhip't Idols that were falſe <hi>I</hi> knew;</l>
+            <l>And when I'd done, ſwore they were Gods moſt true;</l>
+            <l>And play'd the Devil for the ſakes of you;</l>
+            <l>I pray'd to Saints, in time of need, with cryes,</l>
+            <l>Till they had granted my neceſſities,</l>
+            <l>My Almes obtain'd their Saint-ſhip's I'd deſpiſe;</l>
+            <l>I chang'd Religion, often as my name,</l>
+            <l>Spew'd out and hated whereſo'ere <hi>I</hi> came,</l>
+            <l>Hanted by th' Devil, Beggary and ſhame,</l>
+            <l>Through the wild Sects, and Tribes, I made a Ramble</l>
+            <l>And to them all did lye, ſwear, and diſſemble,</l>
+            <l>Enough to make the very Devils tremble,</l>
+            <l>Thus by me were the ſilly Jeſuites ſham'd;</l>
+            <l>When as with tears I ſwore I ſhould be damn'd</l>
+            <l>If not receiv'd into their Holy Band.</l>
+            <l>I made them think Religion was the Tye,</l>
+            <l>That did engage me when <hi>I</hi> came to Spye,</l>
+            <l>Since 'tis well known, the Devil a bit had I.</l>
+            <l>I made his Holineſs believe, the Pope,</l>
+            <l>That in his pardons I conceived ſuch hope,</l>
+            <l>That for his cauſe, I'd ſuffer Fire or Rope;</l>
+            <l>But when I'd got my foot out of his door,</l>
+            <l>
+               <hi>I</hi> Rail'd, and call'd him Babylonian Whore,</l>
+            <l>And many Horrid things againſt him ſwore;</l>
+            <l>For why, <hi>I</hi> ne're yet valued Faith or Troth.</l>
+            <l>Or ever made more ſcruple of an Oath,</l>
+            <l>Then of a blaſt of breath, to cool my Broth.</l>
+            <l>
+               <hi>I</hi> quickly kill'd the worm, within that gnaws,</l>
+            <l>And made the Goſpel, Prophets, and the Laws,</l>
+            <l>Come truckle Brethren, to your good Old Cauſe;</l>
+            <l>
+               <hi>I</hi> laught at all Religion, and its Baubles;</l>
+            <l>Such as Evangeliſts and holy Tables;</l>
+            <l>Eſteeming them no more then <hi>Aeſops</hi> Fables;</l>
+            <l>Like merry <hi>Lucian,</hi> look't on't as a Tale;</l>
+            <l>A dull inſipid thing, grown Old and Stale,</l>
+            <l>Serves me to joak on o're a pot of Ale;</l>
+            <l>
+               <hi>I</hi> ſcoff't and ſcorn'd, but ne're would cringe or bow</l>
+            <l>To thoſe grave fools that do ſuch tales allow,</l>
+            <l>And would have judg'd them to the Cart, or Plough,</l>
+            <l>That with you <hi>I</hi> might gain repute and fame,</l>
+            <l>
+               <hi>I</hi> laught at Conſcience as a Bug-bear name;</l>
+            <l>And ſhook off quite all modeſty and ſhame,</l>
+            <l>In hopes once more you'd come to rule the Roaſt,</l>
+            <l>
+               <hi>I</hi> mad my ſelf Knight-errant of the Poſt;</l>
+            <l>Of which <hi>I</hi> take the vanity to boaſt;</l>
+            <l>For good of Common-Wealth without repine,</l>
+            <l>I franckly Dedicated me, and mine,</l>
+            <l>Contemning Laws, both humane, and divine;</l>
+            <l>Vaſt Sums <hi>I</hi> in the publick ſervice ſpent?</l>
+            <l>Much money to the needy Jeſuit Lent,</l>
+            <l>When at that time, <hi>I</hi>'d neither Land nor Rent;</l>
+            <l>The correſponding charges I did own,</l>
+            <l>When to the Lords my juſt accounts were ſhown,</l>
+            <l>Beſides ſome By-ones more than e're were known,</l>
+            <l>The many painfull journeys, to and fro,</l>
+            <l>Embaſſador 'twixt Devil, and Turk to go,</l>
+            <l>To all the World my vaſt expences ſhow;</l>
+            <l>Beſides, for Flying Horſes which would ſcower,</l>
+            <l>To <hi>France</hi> or <hi>Spain,</hi> and back in half an hour,</l>
+            <l>With old Nicks fees for granting me this power,</l>
+            <l>
+               <hi>I</hi> morgag'd all my Heritage and Lands,</l>
+            <l>To purchaſe from the <hi>Roman</hi> General's hands</l>
+            <l>Commiſſions for my new rais'd ſecret Bands</l>
+            <pb n="3" facs="tcp:99155:3"/>
+            <l>But Oh! <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Devil poor man was ne're ſo croſt</l>
+            <l>When God knows what thoſe <hi>Roman</hi> Bulls had coſt,</l>
+            <l>Lo! ſuddenly they vaniſht, and were loſt,</l>
+            <l>To <hi>M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iber</hi> for ſtrange and curious Arms,</l>
+            <l>Made with ſuch cunning magick ſpells, and charms,</l>
+            <l>To fright and fear, and do no further harms;</l>
+            <l>Procuring of rich Cordials for the King,</l>
+            <l>The which <hi>I</hi> judg'd, the ſaf'ſt and ſureſt thing,</l>
+            <l>Him to his bed, of longeſt reſt to bring;</l>
+            <l>For Blunder-buſs, or Croſs-bow, <hi>I</hi> count nought,</l>
+            <l>Becauſe for ſecret ſervices they were bought;</l>
+            <l>Beſides, were not well manag'd as they ought;</l>
+            <l>At many other charges <hi>I</hi> have been,</l>
+            <l>For preſervation of the Duke and Queen,</l>
+            <l>And ſwearing things were never heard nor ſeen;</l>
+            <l>For Doctor-ſhip, and <hi>Salamanca</hi> fees;</l>
+            <l>Where Piſtols flew away as thick as Bees;</l>
+            <l>Pox on their Univerſity degrees,</l>
+            <l>For antient books, that <hi>I</hi> in <hi>Aegypt</hi> bought,</l>
+            <l>From the fam'd <hi>Ptolemaeus</hi> Study brought</l>
+            <l>No Gypſie gibberiſh ones, as ſome have thought</l>
+            <l>
+               <hi>I</hi> bought in <hi>Spain,</hi> the witty <hi>Guzman</hi>'s works,</l>
+            <l>The holy league 'twixt <hi>Teckley,</hi> and the <hi>Turks</hi>
+            </l>
+            <l>With <hi>Machiavel</hi>'s, ſtate-niceties and querks,</l>
+            <l>All this and more <hi>I</hi> freely did disburſe,</l>
+            <l>For th' Nations good out of my privy purſe</l>
+            <l>And never thought my ſelf a groat the worſe,</l>
+            <l>But this is nothing to a thouſand more,</l>
+            <l>Good ſervices, that <hi>I</hi> have ſtill in ſtore,</l>
+            <l>Such as the Devil himſelf, ne're did before;</l>
+            <l>The many famous deeds that I have done,</l>
+            <l>Since <hi>I</hi> the Kingdoms mighty work begun,</l>
+            <l>Have made <hi>Ketch</hi> half as rich as ſquire <hi>Dunn</hi>
+            </l>
+            <l>What Tongue can tell with how much cunning Art</l>
+            <l>
+               <hi>I</hi> did contrive my Plot in every part,</l>
+            <l>Of which the Tories ſhould have felt the ſmart.</l>
+            <l>For whom <hi>I</hi> liſt of it, <hi>I</hi> could accuſe,</l>
+            <l>If to compound with me they did refuſe,</l>
+            <l>
+               <hi>I</hi> ſwore good Chriſtians to be Turks and Jews</l>
+            <l>The Jeſuites <hi>I</hi> ſet like any Spannel,</l>
+            <l>To do their work <hi>I</hi> had a ready pannell.</l>
+            <l>That ſcare would give 'em time, to buy them flannel.</l>
+            <l>
+               <hi>I</hi> watcht for Prieſts, as Cat doth watch for Mouſe,</l>
+            <l>At midnight, low belling from houſe to houſe,</l>
+            <l>Though here I'm forc'd each night to hunt for Louſe,</l>
+            <l>
+               <hi>I</hi> rail'd at th' Privy Council, and at <hi>Scrogs</hi>
+            </l>
+            <l>And call'd them damn'd confounded, popiſh Dogs</l>
+            <l>'Cauſe they'd not hang all thoſe which <hi>I</hi> call'd Rogues.</l>
+            <l>Thoſe were my golden days, my days of power,</l>
+            <l>When great ones, fear'd me, when <hi>I</hi> ſent each hour</l>
+            <l>At leaſt a ſcore to <hi>New-gate</hi> and the <hi>Tower;</hi>
+            </l>
+            <l>I made them tremble at my very word,</l>
+            <l>Which did the work as ſure as any Sword,</l>
+            <l>Though now 'tis no more valued then a T—</l>
+            <l>Then was I ſtout as <hi>I</hi> St. <hi>George</hi> had been</l>
+            <l>At th' Commons Bar to ſtick <hi>I</hi> ne're was ſeen</l>
+            <l>Of Treaſon to accuſe Lord, D. or Queen.</l>
+            <l>No man durſt thwart me, with deſire of pelf</l>
+            <l>
+               <hi>I</hi> rag'd and grew to ſuch a peeviſh Elf</l>
+            <l>Had the King next me, I had peacht himſelf;</l>
+            <l>For at that time I'd brought things to ſuch paſs</l>
+            <l>In open Court, <hi>I</hi>'d bid 'em kiſs my A—</l>
+            <l>But now the times are chang'd Alas! Alas!</l>
+            <pb n="4" facs="tcp:99155:4"/>
+            <l>
+               <hi>I</hi> was by moſt S'rd, Reverenc'd and reſpected</l>
+            <l>From Popiſh Treaſons by my Guards protected,</l>
+            <l>Though now like Rogue <hi>I</hi>'m ſlighted and neglected;</l>
+            <l>Each word that from my ſacred lips then fell</l>
+            <l>Received were as holy Oracle,</l>
+            <l>Though now they ſay 'twas all the craft of Hell,</l>
+            <l>
+               <hi>I</hi> rul'd and Reign'd in mighty pomp and ſtate</l>
+            <l>Whilſt in the Houſe my Lords and Maſters ſate,</l>
+            <l>
+               <hi>I</hi> furniſh'd them with buſineſs of debate.</l>
+            <l>'Twas pritty in thoſe days good faith to ſee</l>
+            <l>Your popiſhly affected Lords with fee</l>
+            <l>And cap in hand come ſneaking after me,</l>
+            <l>They fear'd my very menaces and frown,</l>
+            <l>Dreaded my anger more than of the Crown,</l>
+            <l>For <hi>I</hi> could pull their lofty ſtomachs down.</l>
+            <l>
+               <hi>I</hi> was the Torries Plague their Iron Rod,</l>
+            <l>
+               <hi>I</hi> huft the Biſhops, on their Miters trod,</l>
+            <l>Swore what <hi>I</hi> liſt, fear'd neither man nor God</l>
+            <l>Juſt as <hi>I</hi> pleas'd State-matters i'd diſpoſe,</l>
+            <l>Found the Kings Friends to be the Kingdoms Foes;</l>
+            <l>To ſmell out Traytors none had ſuch a Noſe.</l>
+            <l>I pointed out Mer-worthy, Wiſe and Juſt,</l>
+            <l>Whom I thought fit for Offices of Truſt,</l>
+            <l>And told the King thoſe were the men he muſt</l>
+            <l>Advance, and thoſe great Officers of State</l>
+            <l>Well known again their good or evil fate</l>
+            <l>Depended much on my politick pate;</l>
+            <l>For thoſe that did not Romaniſts annoy,</l>
+            <l>And their Adherents hated more deſtroy,</l>
+            <l>I thought unfit their places to enjoy;</l>
+            <l>But by Adherents, would you know what's meant,</l>
+            <l>For 'tis a word of very large extent,</l>
+            <l>All thoſe whom we thought fit to circumvent</l>
+            <l>I did adviſe the Kingdom to diſgrace,</l>
+            <l>The next Succeſſor of the Royall Race</l>
+            <l>And to exalt a Baſtard in his place;</l>
+            <l>The King I councell'd into ſafer hands,</l>
+            <l>To put the Navy and the trained bands,</l>
+            <l>Content himſelf to live on his Crown-lands,</l>
+            <l>T'leave Popiſh Councils, follow better courſes,</l>
+            <l>Turn out his Guards, thoſe mercenary forces,</l>
+            <l>Live privately, and keep a brace of horſes</l>
+            <l>His Guards did terrifie good peaceful men,</l>
+            <l>He might go live, and truſt himſelf with them</l>
+            <l>As ſafe as <hi>Daniel</hi> in the Lyons Den;</l>
+            <l>I did commend him to the Commons care</l>
+            <l>Wiſht him t'obey, by whiſpering in his Ear,</l>
+            <l>The diſobedience of his Father dear;</l>
+            <l>If he'd be wiſe, and rul'd by them, no doubt,</l>
+            <l>And turn his old and wealthy minnions out,</l>
+            <l>Soon all his buſineſs, would be brought about,</l>
+            <l>They'd give him money, or what elſe he pleas'd</l>
+            <l>When he his ſubjects of their yoke had eas'd</l>
+            <l>And every ſqueamiſh Conſcience was appeas'd.</l>
+            <l>
+               <hi>I</hi> always pray'd for the Parliaments ſitting,</l>
+            <l>And that too as long as their worſhips thought fitting</l>
+            <l>Becauſe when they met, they minded their knitting</l>
+            <l>For had they ſat on <hi>I</hi> was in fair hopes</l>
+            <l>To have got an Eſtate by cutting of Throats,</l>
+            <l>But now <hi>I</hi> ſhall never be worth ten groats,</l>
+            <l>For <hi>I</hi> deſerv'd the Mannor of <hi>Bobbing</hi>
+            </l>
+            <l>For Parliament buſineſs and other jobbing</l>
+            <l>As well as a Thief a halter for Robbing.</l>
+            <pb n="5" facs="tcp:99155:4"/>
+            <l>The next good Service that <hi>I</hi> did the Crown,</l>
+            <l>Was to poſſeſs the Country and the Town</l>
+            <l>They'd here be ſafe till Monarchy came down;</l>
+            <l>That Monarchy unjuſtly ſtill bereaves</l>
+            <l>Of Liberty, and makes poor Subjects Slaves;</l>
+            <l>And is upheld by prating Fools and Knaves:</l>
+            <l>To prove it by Examples, I did chuſe</l>
+            <l>Some Stories of the Old Rebellious <hi>Jews,</hi>
+            </l>
+            <l>With ſome late Manuſcripts of Doctor <hi>Hugh</hi>'s.</l>
+            <l>For in thoſe Days when <hi>Iſrael</hi> had no King,</l>
+            <l>Without Controul, men might do any thing,</l>
+            <l>Live merrily, and go t'Heaven in a String.</l>
+            <l>
+               <hi>I</hi> oft did from the lofty Pulpit bawl,</l>
+            <l>And not obſcurely hinted to them All,</l>
+            <l>To truſt not much, ſome Great Ones at <hi>White-Hall:</hi>
+            </l>
+            <l>
+               <hi>I</hi> told Deſigns were hatching many Years,</l>
+            <l>On both ſides whiſper'd Jealouſies and Fears</l>
+            <l>In hopes they'd fall together by the Ears:</l>
+            <l>
+               <hi>I</hi> raiſ'd up Storms and Tempeſts in the State</l>
+            <l>That threatn'd all the Ship with dreadful Fate,</l>
+            <l>
+               <hi>I</hi> hopes <hi>I</hi> ſhould be Choſen Maſter's Mate,</l>
+            <l>For why, my Skill in Pilotting was ſuch</l>
+            <l>That <hi>I</hi> had learned of the Neighbouring <hi>Dutch,</hi>
+            </l>
+            <l>That at the Choice the Saylors would not grutch;</l>
+            <l>By their own Compaſs I my Courſe would ſteer</l>
+            <l>From <hi>Popiſh</hi> Shoales, and Sands, ſtill keeping clear,</l>
+            <l>Nor lofty Rocks of Tyranny come near:</l>
+            <l>But oh! the fates! the Tempeſt was deſcry'd,</l>
+            <l>The jealous Maſter all the matter ſpy'd,</l>
+            <l>And <hi>I</hi> was in the Hold faſt bound and ty'd;</l>
+            <l>
+               <hi>I</hi> had a Poſt each moment ſent from <hi>Hell,</hi>
+            </l>
+            <l>A nimble Spark, that knew my Genius well,</l>
+            <l>With expreſs Orders purpoſely to tell</l>
+            <l>And teach me every thing that's done above,</l>
+            <l>Or underneath the mighty Throne of <hi>Jove,</hi>
+            </l>
+            <l>And all his pains was purely for my love;</l>
+            <l>For by this means <hi>I</hi> knew of things to come,</l>
+            <l>As well as what in Elder Times was done;</l>
+            <l>And by it all my former Credit won;</l>
+            <l>For in thoſe days who was ſo great as <hi>I,</hi>
+            </l>
+            <l>Or could ſo ſoon ſtrange Miſteries eſpye,</l>
+            <l>'Twas almoſt Death to give me but the Lye.</l>
+            <l>
+               <hi>I</hi> told the Parliament, how that the Queen</l>
+            <l>After the murder'd Juſtice ſhe had ſeen,</l>
+            <l>Made a low Courteſie to <hi>Hill,</hi> and <hi>Green,</hi>
+            </l>
+            <l>And thankt them kindly for the pains they'd ta'en.</l>
+            <l>I ſaw the Duke, in Parliament <hi>I</hi> ſwore,</l>
+            <l>
+               <hi>I</hi> did believe through ſixteen Doors, and more,</l>
+            <l>Communicating with the <hi>Roman</hi> Whore;</l>
+            <l>
+               <hi>I</hi> call'd him ſtubborn Rogue, that ne're would bend,</l>
+            <l>And told them plainly he was not their Friend,</l>
+            <l>Therefore Advis'd them to Contrive his End:</l>
+            <l>I workt it ſo, for all his great Commands,</l>
+            <l>I made him glad to ſcape out of their hands</l>
+            <l>By Shifting for himſelf in Forreign Lands.</l>
+            <l>
+               <hi>I</hi> rav'd and went on, and was't not pritty</l>
+            <l>To Accuſe the King in the Secret Committee,</l>
+            <l>And jeer him at Clubbs and Cabals in the City.</l>
+            <l>
+               <hi>I</hi> wondred how Brave <hi>Engliſh</hi> Heroes cou'd</l>
+            <l>Be Rul'd and Govern'd by the <hi>Scottiſh</hi> Blood,</l>
+            <l>Such Servitude I nere eſteemed good.</l>
+            <pb n="6" facs="tcp:99155:5"/>
+            <l>Therefore their Indignation to appeaſe</l>
+            <l>If that they'd iſſue forth a Writ of Eaſe</l>
+            <l>I'd ſerve it on Him when their honours pleaſe,</l>
+            <l>I taught the people that ſince <hi>Babel</hi> Tower,</l>
+            <l>From them alone Kings did drive their power,</l>
+            <l>Whom if they pleas'd they might change every hour.</l>
+            <l>From Club to Club made drunk where e're I came</l>
+            <l>
+               <hi>I</hi> loudly rail'd againſt the <hi>Stuarts</hi> Name,</l>
+            <l>And did their Father's perſecutions blame;</l>
+            <l>
+               <hi>I</hi> made diſſenting Saints believe that he</l>
+            <l>Deſign'd t'enſnare their Souls and Liberty,</l>
+            <l>And on him ſham'd the <hi>Iriſh</hi> Maſſacre:</l>
+            <l>I prais'd <hi>Old Noll</hi> the Armies Bully-Rock</l>
+            <l>With thoſe good men that brought him to the Block,</l>
+            <l>Him above all that gave the fatal knock:</l>
+            <l>I curſt the Fates of that unlucky day</l>
+            <l>Wherein <hi>Old Rowly</hi> ſtrangely ſlipt away</l>
+            <l>And would not for his Friends at <hi>Worceſter</hi> ſtay.</l>
+            <l>I wiſht the Devil might th' popiſh Traytor choak</l>
+            <l>That hid him from us in the rotten Oake,</l>
+            <l>Which is as true a word as e're <hi>I</hi> ſpoke;</l>
+            <l>A ſneaking Dog whoſe conſcience was ſo nice</l>
+            <l>A Thouſand pounds would not the Thief entice,</l>
+            <l>
+               <hi>I</hi> would have don't for half the money, twice.</l>
+            <l>With grief <hi>I</hi> celebrate that Feaſt in <hi>May</hi>
+            </l>
+            <l>Which Tories call their great Thankſgiving day,</l>
+            <l>As for a Judgment then, I faſt and pray.</l>
+            <l>Theſe are the Services <hi>I</hi>'ve done the Nation</l>
+            <l>As a fore-runner of new Reformation</l>
+            <l>And to make way for the Aſſociation;</l>
+            <l>For which <hi>I</hi> ſhould to great perferment riſe</l>
+            <l>Rewarded and advanc'd above the Skyes</l>
+            <l>By th' keepers of the <hi>Engliſh</hi> Liberties,</l>
+            <l>This to be true, time would have prov'd my words,</l>
+            <l>Better then Bar of Commons, or of Lords,</l>
+            <l>By the fair Tryal of your Pikes and Swords;</l>
+            <l>For as Reformers muſt, <hi>I</hi>'ve wrought ſome wonders</l>
+            <l>Which ſhould have been confirm'd by warlike Thunders</l>
+            <l>Made out by Rapine, Sacrilidge, and Plunders:</l>
+            <l>With Roman Bulls, black-bills and <hi>Smith-field</hi> Spits</l>
+            <l>
+               <hi>I</hi> frighted three Kingdoms out of their wits,</l>
+            <l>And made them fall into convulſion fits;</l>
+            <l>
+               <hi>I</hi> made them on a ſudden fly to prayer</l>
+            <l>For fear of Mountains falling from the Air,</l>
+            <l>Which made ſome ſoft Pates, of their brains deſpair.</l>
+            <l>Some chuſe to dye by true Proteſtant Ropes</l>
+            <l>And ſome for fear of Papiſts,<note place="margin">St. Soll. <hi>E.</hi> Eſſ.</note> cut their Throats,</l>
+            <l>For which they were beholding unto <hi>Otes;</hi>
+            </l>
+            <l>Whilſt others frighted with the hdeous cryes</l>
+            <l>Of Fairy Armies fighting in the Skies,</l>
+            <l>By gazing up loſt both their head and eyes;<note place="margin">Ruſſ.</note>
+            </l>
+            <l>Some thought the Iſland was a running round</l>
+            <l>No ſteady place of footing to be found,</l>
+            <l>For fear they run away and left the ground;<note place="margin">Fugitive Traytors.</note>
+            </l>
+            <l>That Roman Cannibals in furious mood,</l>
+            <l>Were coming to deſtory th' Proteſtants brood;</l>
+            <l>And Eat them all at once for want of food;</l>
+            <l>No man could ſafe on pillow lay down's head</l>
+            <l>As in full ſenate learnedly One ſaid,</l>
+            <l>Leaſt he might riſe with's Throat cut in his Bed;</l>
+            <l>For as we are told by a deceas'd Eſquire</l>
+            <l>In's Narratives of Maſſacres and Fire</l>
+            <l>How narrowly we ſcap't the Papiſts Ire:</l>
+            <pb n="7" facs="tcp:99155:5"/>
+            <l>That they had made the great <hi>Veſavian</hi> Hills</l>
+            <l>Into Fire-balls as ſmall as Doctors Pills,</l>
+            <l>And ſecretly convey'd them o're in quills:</l>
+            <l>The Trayterous Jeſuites, and their curſed backers,</l>
+            <l>Had made mount <hi>Aetna</hi> in Squibs and Crackers</l>
+            <l>To throw, and burn our Cloaths to Rags and Tatters.</l>
+            <l>All this was but a Tryal of my Skill</l>
+            <l>Like th' Exerciſe of <hi>Quixot</hi> and his Mill,</l>
+            <l>I was reſolvd to do more wonders ſtill;<note place="margin">Army under Ground.</note>
+            </l>
+            <l>
+               <hi>I</hi> raiſed forty thouſand of the Dead</l>
+            <l>Souldiers that from their camp laſt Age were fled</l>
+            <l>And fed them under ground with Ginger-bread;<note place="margin">Span. Pil.</note>
+            </l>
+            <l>Armies of Pilgrims <hi>I</hi> call'd out of <hi>Spain</hi>
+            </l>
+            <l>Embarqu'd in a nut-ſhell ſafely on the Main</l>
+            <l>And in a trice convey'd them back again.<note place="margin">Don John.</note>
+            </l>
+            <l>
+               <hi>I</hi> made a Prince that was of little ſtature</l>
+            <l>With half a word a tall and comely Creature,</l>
+            <l>My very breath chang'd in him every feature;</l>
+            <l>
+               <hi>I</hi> rais'd up <hi>Gyges,</hi> robb'd him of his Ring,</l>
+            <l>And by that means converſt with many a King</l>
+            <l>So ſecretly themſelves knew not the thing;</l>
+            <l>I beg'd of <hi>Juno, Argus's</hi> head and eyes</l>
+            <l>To place abroad in Princes Courts for ſpyes,</l>
+            <l>So that <hi>I</hi> knew of every Enterprize;</l>
+            <l>I knew all mankind living on the Earth</l>
+            <l>Set private marks upon them at their birth,</l>
+            <l>Which caus'd amongſt ſome people wondrous mirth;</l>
+            <l>Though now and then I bawkt by Candle light,</l>
+            <l>Pox on my ſenſes, and my duller ſight,</l>
+            <l>Could not diſcern a Squire from a Knight.<note place="margin">Coleman.</note>
+            </l>
+            <l>Theſe and a Thouſand other pretty pranks</l>
+            <l>I've play'd with men of all Degrees and Ranks,</l>
+            <l>For which <hi>I</hi> did expect ſome better thanks.</l>
+            <l>I little thought that this ſweet Face of mine,</l>
+            <l>That looks ſo like a reverend grave Divine</l>
+            <l>Should come ſo ſoon through Iron Grates to ſhine,</l>
+            <l>
+               <hi>I</hi> never dream't of ſuch rewards as theſe</l>
+            <l>Whilſt that <hi>I</hi> liv'd in Palaces of Eaſe</l>
+            <l>Sporting with my pritty <hi>Gammedes;</hi>
+            </l>
+            <l>Nor did <hi>I</hi> think my Labours and my Toyles</l>
+            <l>Sould be rewarded in the common <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayles</l>
+            <l>'Twould make a Welch-man ſwear, guts plutter and nails.</l>
+            <l>But Oh; ſee what the deſtinies have brought to paſs</l>
+            <l>That folkes at laſt ſhould make me ſuch and Aſs,</l>
+            <l>As to keep Colt's with <hi>Otes,</hi> inſtead of graſs;</l>
+            <l>
+               <hi>I</hi> thought the Nation would have paid my ſcore,</l>
+            <l>For a reward have thrown me ſomething more</l>
+            <l>But now <hi>I</hi> ſee I am deceiv'd full ſore.</l>
+            <l>As holy muſſel men do count and write</l>
+            <l>Their great <hi>Hegira</hi> from their prophets flight,</l>
+            <l>When for Rebellion he was baniſh't quite;</l>
+            <l>So may <hi>I</hi> date my woes from that ſame day</l>
+            <l>My poliſh princely Patron run away</l>
+            <l>And left his his people in the mire and clay;<note place="margin">Shaft.</note>
+            </l>
+            <l>Why! did he not take me with him to dwell</l>
+            <l>When he embarqut for <hi>Holland</hi> and for <hi>Hell,</hi>
+            </l>
+            <l>
+               <hi>I</hi> ne're ſhall get there half ſo ſafe and well.</l>
+            <l>My mind long ſince preſages dreadful things,</l>
+            <l>With tortured cryes my Ears already rings</l>
+            <l>And think each man ſome fatal Tidings brings,</l>
+            <l>My Tongue that never fail'd me yet, now falters,</l>
+            <l>
+               <hi>I</hi> dream of nothing but of hemp and halters,</l>
+            <l>And frightful Viſions, of the Rye-houſe Malters,</l>
+            <pb n="8" facs="tcp:99155:6"/>
+            <l>Methinks <hi>I</hi> ſee ſome of my Friends come o're</l>
+            <l>And becken to me from the <hi>Stygian</hi> Shore</l>
+            <l>All pale and wan and welter'd in their gore,</l>
+            <l>Methinks <hi>I</hi> ſee each Night ſtern vengeance ſtand</l>
+            <l>Over my head with naked Sword in hand,</l>
+            <l>Threatning eft ſoons to rid me of the Land.</l>
+            <l>Oft-times I dream of thoſe bald gaſtly Pates</l>
+            <l>O'th Bridge, and Quarters o're the City Gates,</l>
+            <l>Pittying as 'twere my own, thoſe poor mens fates</l>
+            <l>And then <hi>I</hi> fear, leaſt the juſt fates decree</l>
+            <l>As a reward of my fidility,</l>
+            <l>The Doctor to adorn the Triple Tree:</l>
+            <l>But hang me Sirs if e're you catch me there.</l>
+            <l>When once I've brought my ſelf into the ſnare</l>
+            <l>
+               <hi>In verbo Sacerdotis</hi> I'll declare</l>
+            <l>The truth of all and every thing <hi>I</hi> knew,</l>
+            <l>Which will <hi>I</hi>'m ſure make many men look blew;</l>
+            <l>Though <hi>I</hi> Ly'd Living, dying <hi>I</hi>'ll ſpeak True.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
